@@ -1,2 +1,2 @@
 import scrapy
-scrapy crawl petitions -a search="search term" -o petitions.json
+scrapy crawl petitions -a search="price" -o petitions.json
